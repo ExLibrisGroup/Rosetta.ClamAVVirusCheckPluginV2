@@ -8,7 +8,7 @@
     	</fr:x_form>
 	</pl:initParameters>
 	<pl:description>Clam Anti Virus Check Plugin V2 Example</pl:description>
-	<pl:version>1</pl:version>
+	<pl:version>2</pl:version>
 	<pl:materialType>DIGITAL</pl:materialType>
 	<pl:module>Repository</pl:module>
 	<pl:generalType>TASK</pl:generalType>
