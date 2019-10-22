@@ -1,6 +1,6 @@
 #!/bin/sh
 
-CLAMSCAN=clamdscan
+CLAMSCAN=clamscan
 SCANOPTS="--stdout --no-summary"
 
 STATUS=255
